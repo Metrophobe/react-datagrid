@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a simple example showing how to utilise Javascript's fetch to access async remote data. It also shows how to utilise the useEffect hook which replaces ComponentDidMount and ComponentDidUpdate in classic react.
+
 ## Available Scripts
 
 In the project directory, you can run:

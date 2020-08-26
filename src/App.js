@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>React DataGrid Example</header>
+      <header>React Data Fetch Example</header>
       {loading ? (
         <div>loading</div>
       ) : (
